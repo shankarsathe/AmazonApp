@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="99513" started-at="2019-01-27T02:08:22Z" finished-at="2019-01-27T02:10:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="99513" started-at="2019-01-27T02:08:22Z" finished-at="2019-01-27T02:10:02Z">
+      <class name="Test.Shopbycatagorytest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Test.Shopbycatagorytest@27c20538]" name="launch" is-config="true" duration-ms="259" started-at="2019-01-27T07:38:39Z" finished-at="2019-01-27T07:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="clickonshopbycatagory()[pri:2, instance:Test.Shopbycatagorytest@27c20538]" name="clickonshopbycatagory" duration-ms="10558" started-at="2019-01-27T07:38:40Z" finished-at="2019-01-27T07:38:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonshopbycatagory -->
+        <test-method status="PASS" signature="clickonkindlereader()[pri:3, instance:Test.Shopbycatagorytest@27c20538]" name="clickonkindlereader" duration-ms="10509" started-at="2019-01-27T07:38:50Z" finished-at="2019-01-27T07:39:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonkindlereader -->
+      </class> <!-- Test.Shopbycatagorytest -->
+      <class name="Test.Kindlesearchpagetest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Test.Kindlesearchpagetest@72d818d1]" name="launch" is-config="true" duration-ms="147" started-at="2019-01-27T07:39:01Z" finished-at="2019-01-27T07:39:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="kindlreaderclick()[pri:4, instance:Test.Kindlesearchpagetest@72d818d1]" name="kindlreaderclick" duration-ms="20075" started-at="2019-01-27T07:39:01Z" finished-at="2019-01-27T07:39:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kindlreaderclick -->
+        <test-method status="PASS" signature="clickkindle()[pri:5, instance:Test.Kindlesearchpagetest@72d818d1]" name="clickkindle" duration-ms="20548" started-at="2019-01-27T07:39:21Z" finished-at="2019-01-27T07:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickkindle -->
+        <test-method status="PASS" signature="clickonaddtocart()[pri:6, instance:Test.Kindlesearchpagetest@72d818d1]" name="clickonaddtocart" duration-ms="20157" started-at="2019-01-27T07:39:42Z" finished-at="2019-01-27T07:40:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonaddtocart -->
+      </class> <!-- Test.Kindlesearchpagetest -->
+      <class name="Test.Amazonhomepagetest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Test.Amazonhomepagetest@56ac3a89]" name="launch" is-config="true" duration-ms="13129" started-at="2019-01-27T07:38:23Z" finished-at="2019-01-27T07:38:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="clickonhumbergermenui()[pri:1, instance:Test.Amazonhomepagetest@56ac3a89]" name="clickonhumbergermenui" duration-ms="3762" started-at="2019-01-27T07:38:36Z" finished-at="2019-01-27T07:38:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonhumbergermenui -->
+      </class> <!-- Test.Amazonhomepagetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
